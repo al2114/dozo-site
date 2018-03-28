@@ -58,3 +58,7 @@ a.light {
 	background-color: #52e56d;
 	border-style: none;
 }
+
+.btn-pesto:active {
+	background-color: #16a747;
+}
