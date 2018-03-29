@@ -26,7 +26,7 @@ a.light {
 }
 
 .logo>img {
-	width: 80px;
+	width: 8vh;
 }
 
 .claim-card {
@@ -65,4 +65,18 @@ a.light {
 
 .btn-pesto:active {
 	background-color: #16a747;
+}
+
+.center-block {
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+
+.debug {
+    background: pink;
+}
+
+.debug2 {
+    background: white;
 }
